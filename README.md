@@ -7,6 +7,8 @@ This repository provides the source codes for the paper.
 ## Abstract
 Many real world applications of reinforcement learning require an agent to select optimal actions from continuous action spaces. Recently, deep neural networks have successfully been applied to games to with discrete actions spaces. However, such deep neural networks for discrete actions are not directly applicable to find strategies for games where a minute change of an action could alter the outcome of the games dramatically. In this paper, we present a new framework which incorporates a deep neural network for learning game strategy with a kernel-based Monte Carlo tree search  for finding actions from continuous space. Without any hand-crafted feature, we train our network in supervised learning manner and then reinforcement learning settings with a high fidelity simulator of the Olympic sport of curling. Recently, Our framework outperforms existing programs equipped with several hand-crafted features for the game of Curling. Our program trained under our framework won an international digital Curling competition; Game AI Tournaments (GAT-2018@UEC).
 
+This version of software is developed by Kyowoon Lee, Sol-a Kim and Jaesik Choi, members of [Statistical Artificial Intelligence Laboratory (SAIL)](http://sail.unist.ac.kr) at Ulsan National Institute of Science and Technology (UNIST), Korea. This is joint work with Prof. Seong-Whan Lee at Korea University.
+
 If you have any question, please email to the authors:
 
 [Kyowoon Lee] (leekwoon@unist.ac.kr)
