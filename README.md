@@ -51,3 +51,5 @@ http://minerva.cs.uec.ac.jp/curling_en/wiki.cgi?page=Description+of+each+part
 <sup>1</sup>[UNIST](http://www.unist.ac.kr/) @ Department of Computer Engineering, UNIST, Ulsan, Republic of Korea
 
 <sup>2</sup>[Korea University](http://www.korea.ac.kr/mbshome/mbs/en/index.do) @ Department of Brain and Cognitive Engineering, Korea University, Seoul, Republic of Korea
+
+\* Equal contribution
