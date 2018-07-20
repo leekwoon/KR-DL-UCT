@@ -1,5 +1,3 @@
-# Code will be uploaded soon.
-
 # KR-DL-UCT
 
 This repository provides the source codes for KR-DL-UCT algorithm in the paper.
